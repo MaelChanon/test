@@ -1,0 +1,20 @@
+[
+	{
+		"__TYPE__": "SharedSliceContent",
+		"variation": "default",
+		"primary": {
+			"testrichtext": {
+				"__TYPE__": "StructuredTextContent",
+				"value": [
+					{
+						"type": "paragraph",
+						"content": {
+							"text": "Do dolor mollit excepteur est. Elit eu officia voluptate in id proident dolore velit incididunt. Et minim velit id deserunt ipsum."
+						}
+					}
+				]
+			}
+		},
+		"items": []
+	}
+]
